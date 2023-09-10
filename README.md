@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Nikita Joshi</h1>
 <h3 align="center">Automation engineer fluent in Java, SQL, and Selenium, transitioning to a career in Java development for impactful software solutions</h3>
 
@@ -14,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikitaj54203462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikitaj54203462" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-joshi-62676981/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-joshi-62676981/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita-joshi-62676981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-joshi-62676981" height="30" width="40" /></a>
 <a href="https://instagram.com/joshi_niki_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshi_niki_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/niki75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/niki75/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/niki75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niki75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
