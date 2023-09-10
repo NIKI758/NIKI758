@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikita Joshi</h1>
+<h3 align="center">Automation engineer fluent in Java, SQL, and Selenium, transitioning to a career in Java development for impactful software solutions</h3>
+
 - 🔭 I’m currently working on **Java and SQL.**
 
 - 🌱 I’m currently learning **Tableu and Springboot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NIKI758](https://github.com/NIKI758)
 
 - 💬 Ask me about **Java.**
 
