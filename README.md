@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nikita Joshi</h1>
-<h3 align="center">Automation engineer fluent in Java, SQL, and Selenium, transitioning to a career in Java development for impactful software solutions</h3>
+<h3 align="center">Java and SQL enthusiast, skilled in Selenium automation. Coding to innovate and simplify.</h3>
 
 - 🔭 I’m currently working on **Java and SQL.**
 
