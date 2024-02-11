@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java and SQL.**
 
-- 🌱 I’m currently learning **Tableu and Springboot**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NIKI758](https://github.com/NIKI758)
 
